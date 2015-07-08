@@ -1,0 +1,1306 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"item",
+				"item_pred"
+			],
+			[
+				"edge",
+				"edgetype_subject"
+			],
+			[
+				"string",
+				"string"
+			],
+			[
+				"label",
+				"labelmap"
+			],
+			[
+				"stream",
+				"stringstream"
+			],
+			[
+				"par",
+				"par_edge_file"
+			],
+			[
+				"fi",
+				"append_ve_files"
+			],
+			[
+				"graph",
+				"graphbase"
+			],
+			[
+				"load",
+				"load_inner_nodes"
+			],
+			[
+				"pro",
+				"propfile"
+			],
+			[
+				"get",
+				"get_edge_type"
+			],
+			[
+				"vf",
+				"vfile"
+			],
+			[
+				"bor",
+				"border_vertices"
+			],
+			[
+				"parti",
+				"partiton_vertices"
+			],
+			[
+				"map",
+				"mapout"
+			],
+			[
+				"int",
+				"int_label"
+			],
+			[
+				"fin",
+				"find"
+			],
+			[
+				"su",
+				"sub_label"
+			],
+			[
+				"obj",
+				"obj_label"
+			],
+			[
+				"sub",
+				"subj"
+			],
+			[
+				"vla",
+				"vlabel_map"
+			],
+			[
+				"ed",
+				"edgetype_subject"
+			],
+			[
+				"ela",
+				"elabelindex"
+			],
+			[
+				"pre",
+				"pred"
+			],
+			[
+				"elabe",
+				"elabel_map"
+			],
+			[
+				"v",
+				"vlabelindex"
+			],
+			[
+				"vlabel",
+				"vlabel_map"
+			],
+			[
+				"gen",
+				"gen_partitions/"
+			],
+			[
+				"in",
+				"inputfilename"
+			],
+			[
+				"pa",
+				"pair"
+			],
+			[
+				"v2",
+				"v2label"
+			],
+			[
+				"se",
+				"second"
+			],
+			[
+				"vir",
+				"virtual_vertex_size"
+			],
+			[
+				"partition",
+				"partition_vertex_size"
+			],
+			[
+				"c",
+				"c_str"
+			],
+			[
+				"ar",
+				"argv"
+			],
+			[
+				"exp",
+				"expt_edge_size"
+			],
+			[
+				"inc",
+				"include"
+			],
+			[
+				"loa",
+				"loadGraph"
+			],
+			[
+				"ver",
+				"vertex_size"
+			],
+			[
+				"ex",
+				"expt_edge_size"
+			],
+			[
+				"sor",
+				"sort"
+			],
+			[
+				"a",
+				"album"
+			],
+			[
+				"sc",
+				"script"
+			],
+			[
+				"la",
+				"lang"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"back",
+				"background-size"
+			],
+			[
+				"paddi",
+				"padding-top"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"ta",
+				"table-cell"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"tabl",
+				"table-cell"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"bo",
+				"bottom"
+			],
+			[
+				"fa",
+				"fancybox-nav"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"padding",
+				"padding"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"tab",
+				"table"
+			],
+			[
+				"pad",
+				"padding-left"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"bod",
+				"border"
+			],
+			[
+				"nav",
+				"navbar"
+			],
+			[
+				"site",
+				"site-nav-logo"
+			],
+			[
+				"border-bo",
+				"border-bottom"
+			],
+			[
+				"image",
+				"imageaddress"
+			],
+			[
+				"data",
+				"data-original"
+			],
+			[
+				"hover",
+				"hover-btn"
+			],
+			[
+				"boo",
+				"bottom"
+			],
+			[
+				"out",
+				"outerHeight	.outerHeight"
+			],
+			[
+				"y-gre",
+				"y-green-2"
+			],
+			[
+				"y-g",
+				"y-green-1"
+			],
+			[
+				"new",
+				"new_albums"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"fu",
+				"fullheight"
+			],
+			[
+				"css",
+				"css	.css() - single"
+			],
+			[
+				"le",
+				"letter-spacing"
+			],
+			[
+				"ph",
+				"photography"
+			],
+			[
+				"index",
+				"index-photo"
+			],
+			[
+				"paddin",
+				"padding-left"
+			],
+			[
+				"w-p",
+				"w-p-desc"
+			],
+			[
+				"fot",
+				"font-size"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"inlie",
+				"inline-block"
+			],
+			[
+				"li",
+				"line-height"
+			],
+			[
+				"me",
+				"menuheight"
+			],
+			[
+				"border",
+				"border"
+			],
+			[
+				"padding-",
+				"padding-top"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"colr",
+				"fade(color, 50%)"
+			],
+			[
+				"full",
+				"fullheight"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"flex-de",
+				"flex-direction-nav"
+			],
+			[
+				"arti",
+				"article"
+			],
+			[
+				"blog",
+				"blog-index"
+			],
+			[
+				"inde",
+				"index_content"
+			],
+			[
+				"str",
+				"strip"
+			],
+			[
+				"pti",
+				"ptime"
+			],
+			[
+				"html",
+				"html_content"
+			],
+			[
+				"if",
+				"if	If Condition"
+			],
+			[
+				"y-gr",
+				"y-gray"
+			],
+			[
+				"j",
+				"jpegOptimQuality"
+			],
+			[
+				"roo",
+				"root_dir"
+			],
+			[
+				"de",
+				"deploy"
+			],
+			[
+				"com",
+				"commands"
+			],
+			[
+				"output",
+				"output_album_handle"
+			],
+			[
+				"th",
+				"threshold"
+			],
+			[
+				"photo",
+				"photo_file"
+			],
+			[
+				"cl",
+				"clearfix"
+			],
+			[
+				"alb",
+				"album_list"
+			],
+			[
+				"al",
+				"album_list"
+			],
+			[
+				"n",
+				"nearTime"
+			],
+			[
+				"cur",
+				"curTime"
+			],
+			[
+				"pho",
+				"photo_list"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"so",
+				"social"
+			],
+			[
+				"add",
+				"add_header"
+			],
+			[
+				"tpl",
+				"tpl_js"
+			],
+			[
+				"custo",
+				"custom_footer"
+			],
+			[
+				"page",
+				"page_dir"
+			],
+			[
+				"exif",
+				"exif_info"
+			],
+			[
+				"w",
+				"write"
+			],
+			[
+				"tp",
+				"tpl_footer"
+			],
+			[
+				"ab",
+				"albums"
+			],
+			[
+				"about",
+				"about_handle"
+			],
+			[
+				"file",
+				"filename"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "script/README.md",
+			"settings":
+			{
+				"buffer_size": 1587,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "script/yago2_map2int.cpp",
+			"settings":
+			{
+				"buffer_size": 4378,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "yago/gb_emap",
+			"settings":
+			{
+				"buffer_size": 561,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/yecol/repo/quantified-match/dataset/test/q-yago1.v",
+			"settings":
+			{
+				"buffer_size": 26,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "script/yago2_gen_partitions.cpp",
+			"settings":
+			{
+				"buffer_size": 7513,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "yago/gb_vlabelmap",
+			"settings":
+			{
+				"buffer_size": 127,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/yecol/repo/quantified-match/dataset/test/q-yago1.e",
+			"settings":
+			{
+				"buffer_size": 33,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 285.0,
+		"selected_items":
+		[
+			[
+				"for",
+				"SublimeAStyleFormatter: Format Current File"
+			],
+			[
+				"git push",
+				"Git: Push"
+			],
+			[
+				"git comm",
+				"Git: Commit"
+			],
+			[
+				"gitadd",
+				"Git: Add..."
+			],
+			[
+				"git com",
+				"Git: Commit"
+			],
+			[
+				"git add",
+				"Git: Add..."
+			],
+			[
+				"forf",
+				"SublimeAStyleFormatter: Format Current File"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"error",
+				"SublimeLint: Show All Errors"
+			],
+			[
+				"err",
+				"SublimeLint: Show All Errors"
+			],
+			[
+				"show",
+				"SublimeLint: Show All Errors"
+			],
+			[
+				"shoe",
+				"SublimeLint: Show All Errors"
+			],
+			[
+				"er",
+				"SublimeLint: Show All Errors"
+			],
+			[
+				"html",
+				"Tidy HTML"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"package",
+				"Package Control: List Packages"
+			],
+			[
+				"git",
+				"Git: Push"
+			],
+			[
+				"add",
+				"Git: Add..."
+			],
+			[
+				"git sta",
+				"Git: Status"
+			],
+			[
+				"git st",
+				"Git: Status"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"prefixe",
+				"Preferences: Prefixr Key Bindings – User"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"ty",
+				"Tidy HTML"
+			],
+			[
+				"tih",
+				"Tidy HTML"
+			],
+			[
+				"ti",
+				"Tidy HTML"
+			],
+			[
+				"less",
+				"Set Syntax: LESS"
+			],
+			[
+				"package contr",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/yecol/Dataset/sigmod16-1/pokec/pokec.v",
+		"/home/yecol/repo/metis/programs/gpmetis_ve.cpp",
+		"/home/yecol/Dataset/sigmod16-1/yago/gb_vmap",
+		"/home/yecol/Dataset/sigmod16-1/yago/yago2.e",
+		"/home/yecol/Dataset/sigmod16-1/yago/gb_emap",
+		"/home/yecol/Dataset/sigmod16-1/yago/gb_elabelmap",
+		"/home/yecol/Dataset/sigmod16-1/yago/gb_vlabelmap",
+		"/home/yecol/Dataset/sigmod16-1/yago/gb_vlabel",
+		"/home/yecol/Dataset/sigmod16-1/script/[Finished in 0.2s with exit code 1]/home/yecol/Dataset/sigmod16-1/script/yago2_map2int.cpp",
+		"/home/yecol/Dataset/sigmod16-1/script/README.md",
+		"/home/yecol/Dataset/sigmod16-1/yago/vlabel",
+		"/home/yecol/Dataset/sigmod16-1/pokec/log/trace.log",
+		"/home/yecol/repo/quantified-match/dataset/test/q-pokec2.v",
+		"/home/yecol/repo/quantified-match/dataset/test/q-pokec2.e",
+		"/home/yecol/repo/quantified-match/dataset/test/q-pokec1.e",
+		"/home/yecol/repo/quantified-match/dataset/test/q-pokec.v",
+		"/home/yecol/repo/quantified-match/dataset/test/q9.e",
+		"/home/yecol/repo/quantified-match/dataset/test/q-pokec1.v",
+		"/home/yecol/repo/quantified-match/dataset/test/q-pokec.e",
+		"/home/yecol/s1400132/RUN/log/trace.log",
+		"/home/yecol/Dataset/sigmod16-1/pokec/ptns_0707/p10-1-25.v",
+		"/home/yecol/Dataset/sigmod16-1/pokec/ptns_0707/p10-1-25.e",
+		"/home/yecol/Dataset/sigmod16-1/pokec/ptns_0707/p10-1-24.v",
+		"/home/yecol/Dataset/sigmod16-1/pokec/ptns_0707/p10-1-24.e",
+		"/home/yecol/Dataset/sigmod16-1/pokec/ptns_0707/p9-1-11.v",
+		"/home/yecol/Dataset/sigmod16-1/pokec/ptns_0707/p9-1-11.e",
+		"/home/yecol/Dataset/sigmod16-1/pokec/ptns_0707/p9-1-10.v",
+		"/home/yecol/Dataset/sigmod16-1/pokec/ptns_0707/p9-1-10.e",
+		"/home/yecol/Dataset/sigmod16-1/pokec/ptns_0707/p8-1-0.v",
+		"/home/yecol/Dataset/sigmod16-1/pokec/ptns_0707/p8-1-0.e",
+		"/home/yecol/Dataset/sigmod16-1/pokec/ptns_0707/p7-1-7.v",
+		"/home/yecol/Dataset/sigmod16-1/pokec/ptns_0707/p7-1-7.e",
+		"/home/yecol/Dataset/sigmod16-1/pokec/ptns_0707/p7-1-4.v",
+		"/home/yecol/Dataset/sigmod16-1/pokec/ptns_0707/p7-1-4.e",
+		"/home/yecol/Dataset/sigmod16-1/pokec/ptns_0707/p6-2-15.v",
+		"/home/yecol/Dataset/sigmod16-1/pokec/ptns_0707/p6-2-15.e",
+		"/home/yecol/Dataset/sigmod16-1/pokec/ptns_0707/p6-2-14.v",
+		"/home/yecol/Dataset/sigmod16-1/pokec/ptns_0707/p6-2-14.e",
+		"/home/yecol/Dataset/sigmod16-1/pokec/ptns_0707/p5-2-20.v",
+		"/home/yecol/Dataset/sigmod16-1/pokec/ptns_0707/p5-2-20.e",
+		"/home/yecol/Dataset/sigmod16-1/pokec/ptns_0707/p5-1-31.v",
+		"/home/yecol/Dataset/sigmod16-1/pokec/ptns_0707/p5-1-31.e",
+		"/home/yecol/Dataset/sigmod16-1/pokec/dpatterns/p5.v",
+		"/home/yecol/Dataset/sigmod16-1/pokec/dpatterns/p5.e",
+		"/home/yecol/Dataset/sigmod16-1/pokec/dpatterns/p4.v",
+		"/home/yecol/Dataset/sigmod16-1/pokec/dpatterns/p4.e",
+		"/home/yecol/Dataset/sigmod16-1/pokec/dpatterns/p3.v",
+		"/home/yecol/Dataset/sigmod16-1/pokec/dpatterns/p3.e",
+		"/home/yecol/Dataset/sigmod16-1/pokec/dpatterns/p1.v",
+		"/home/yecol/Dataset/sigmod16-1/pokec/dpatterns/p1.e",
+		"/home/yecol/Dataset/sigmod16-1/pokec/dpatterns/p2.v",
+		"/home/yecol/Dataset/sigmod16-1/pokec/dpatterns/p2.e",
+		"/home/yecol/Dataset/sigmod16-1/pokec/dpatterns/p7.e",
+		"/home/yecol/Dataset/sigmod16-1/pokec/dpatterns/p7.v",
+		"/home/yecol/Dataset/sigmod16-1/pokec/dpatterns/p6.v",
+		"/home/yecol/Dataset/sigmod16-1/pokec/p5.e",
+		"/home/yecol/Dataset/sigmod16-1/pokec/p5.v",
+		"/home/yecol/repo/quantified-match/log/algo-trace.log",
+		"/home/yecol/repo/exp-data-proc/sigmod16-1/gen_query.java",
+		"/home/yecol/repo/quantified-match/dataset/test/q2.e",
+		"/home/yecol/repo/quantified-match/dataset/test/q1.e",
+		"/home/yecol/repo/quantified-match/dataset/test/q1.v",
+		"/home/yecol/repo/quantified-match/dataset/exp/graph-0.e",
+		"/home/yecol/Dataset/sigmod16-1/pokec/gb_freqedge",
+		"/home/yecol/Dataset/social-pokec/pokec.map",
+		"/home/yecol/repo/exp-data-proc/sigmod16-1/pokec_gen_nodes.cpp",
+		"/home/yecol/repo/exp-data-proc/sigmod16-1/pokec_gen_partitions.cpp",
+		"/home/yecol/Dataset/sigmod16-1/pokec/gb_edgetype",
+		"/home/yecol/repo/quantified-match/dataset/test/q9.v",
+		"/home/yecol/repo/exp-data-proc/data-proc.sublime-workspace",
+		"/home/yecol/repo/quantified-match/dataset/test/q2.v",
+		"/home/yecol/Dataset/sigmod16-1/pokec/log/algo-trace.log",
+		"/home/yecol/Dataset/sigmod16-1/pokec/test/2-1-0.e",
+		"/home/yecol/repo/quantified-match/dataset/hello.e",
+		"/home/yecol/repo/quantified-match/dataset/ptns/1-d17-2.e",
+		"/home/yecol/Dataset/sigmod16-1/pokec/patterns/2-s1-1.e",
+		"/home/yecol/repo/graph-algo/dataset/quantified/g1.e",
+		"/home/yecol/repo/graph-algo/dataset/quantified/g1.v",
+		"/home/yecol/repo/quantified-match/dataset/hello.v",
+		"/home/yecol/Dataset/sigmod16-1/pokec/test/2-1-0.v",
+		"/home/yecol/repo/quantified-match/dataset/test/g3.v",
+		"/home/yecol/repo/quantified-match/dataset/test/g3.e",
+		"/home/yecol/repo/quantified-match/dataset/test/g2.e",
+		"/home/yecol/repo/quantified-match/dataset/pokec_freqedge",
+		"/home/yecol/Downloads/BoostIso_VLDB_Experiment/Readme.txt",
+		"/home/yecol/Dataset/sigmod16-1/pokec/pokec_4/prefetch_0/pokec.p0.e",
+		"/home/yecol/Dataset/sigmod16-1/pokec/pokec_4/prefetch_0/pokec.p0.v",
+		"/home/yecol/Dataset/sigmod16-1/metadata.dat",
+		"/home/yecol/repo/exp-data-proc/sigmod16-1/vlabel",
+		"/home/yecol/repo/exp-data-proc/sigmod16-1/yago2_vlabel2int.cpp",
+		"/home/yecol/Dataset/sigmod16-1/yago/yago2_v.map",
+		"/home/yecol/Dataset/social-pokec/metainfo.dat",
+		"/home/yecol/repo/exp-data-proc/sigmod16-1/yago2_map2int.cpp",
+		"/home/yecol/repo/exp-data-proc/sigmod16-1/gen_partitions.cpp",
+		"/home/yecol/Desktop/gentable.cpp",
+		"/home/yecol/Dataset/sigmod16-1/yago/p4/yago2.p0.e",
+		"/home/yecol/Dataset/sigmod16-1/yago/yago2.map",
+		"/home/yecol/Dataset/sigmod16-1/yago/yago2_vlabel",
+		"/home/yecol/Dataset/sigmod16-1/pokec/pokec_4/prefetch_1/pokec.p0.v",
+		"/home/yecol/Dataset/sigmod16-1/pokec/pokec_4/pokec.p0.v",
+		"/home/yecol/Dataset/social-pokec/pokec.prop",
+		"/home/yecol/repo/exp-data-proc/sigmod16-1/datademo/g1.v",
+		"/home/yecol/repo/exp-data-proc/sigmod16-1/datademo/g1.e",
+		"/home/yecol/Dataset/social-pokec/p-countfreqedge.cpp",
+		"/home/yecol/repo/exp-data-proc/sigmod16-1/datademo/g1.p0",
+		"/home/yecol/repo/exp-data-proc/sigmod16-1/common.cpp",
+		"/home/yecol/repo/exp-data-proc/sigmod16-1/common.h",
+		"/home/yecol/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+		"/Users/Yecol/Workspace/git-repo/yecols.cn/inc/blog/2007-001.log",
+		"/Users/Yecol/Workspace/git-repo/yecols.cn/EdiLife/page/20150407.html",
+		"/Users/Yecol/Workspace/git-repo/yecols.cn/inc/blog/2014-001.log",
+		"/Users/Yecol/Workspace/git-repo/yecols.cn/inc/blog/2010-001.log",
+		"/Users/Yecol/Workspace/git-repo/yecols.cn/inc/blog/2008-001.log",
+		"/Users/Yecol/Workspace/git-repo/yecols.cn/inc/blog/2007-002.log",
+		"/Users/Yecol/Workspace/git-repo/yecols.cn/inc/blog/2008-001",
+		"/Users/Yecol/Documents/unimap.kml",
+		"/Users/Yecol/Workspace/git-repo/yecols.cn/EdiLife/page/template.html",
+		"/Users/Yecol/Workspace/git-repo/yecols.cn/EdiLife/page/1.html",
+		"/Users/Yecol/Workspace/git-repo/yecols.cn/EdiLife/assets/css/style.less",
+		"/Users/Yecol/Workspace/git-repo/yecols.cn/assets/css/style.less",
+		"/Users/Yecol/Workspace/git-repo/yecols.cn/inc/page/portfolio.html",
+		"/Users/Yecol/Workspace/git-repo/yecols.cn/shop/cowgate.html",
+		"/Users/Yecol/Workspace/git-repo/yecols.cn/index.html",
+		"/Users/Yecol/Workspace/git-repo/yecols.cn/inc/generate.py",
+		"/Users/Yecol/Workspace/git-repo/yecols.cn/inc/page/about.html",
+		"/Users/Yecol/Workspace/git-repo/yecols.cn/assets/css/shop.less",
+		"/Users/Yecol/Workspace/git-repo/yecols.cn/shop/assets/style.less",
+		"/Users/Yecol/Workspace/git-repo/yecols.cn/404.html"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"76",
+			"76	",
+			"place",
+			"();\n",
+			"++;\n",
+			"<<",
+			"吧",
+			"post",
+			"index",
+			"faces",
+			"keyword",
+			"keywords",
+			"nav",
+			"#index",
+			"new.png",
+			"new",
+			"120px",
+			"120p'x",
+			"media",
+			"padding-top",
+			"photos",
+			"padding: 60",
+			"main.photos",
+			"main",
+			"max-width:",
+			"max-width: 940px",
+			"site-nav-logo",
+			"navbar-collapse",
+			"navbar-nav",
+			"navbar",
+			"nav",
+			"jpg",
+			"j'p'g",
+			"thumb",
+			"b-photo",
+			"a-photo",
+			"trans",
+			"t'ran's",
+			"ms-1",
+			"}\n",
+			"simg",
+			"    ",
+			"icon",
+			"media",
+			"icon",
+			"os.path.exists(path)",
+			"and",
+			"\")\n",
+			"page_dir",
+			"processSin",
+			"output_handle",
+			"add_header",
+			"output_handle",
+			"filename",
+			"inc",
+			"blog",
+			"album",
+			"social",
+			"weibo",
+			"social",
+			"str",
+			"get_exif_data",
+			"print",
+			"a-album",
+			"a-al",
+			"media",
+			";\n",
+			"img",
+			"page",
+			"();\n",
+			"checkwords.py",
+			"summary-content",
+			"footer",
+			"link_page",
+			"link-page",
+			"article",
+			"entry-header",
+			"header",
+			"body",
+			"a",
+			"header",
+			"button",
+			"page",
+			".entry-content p",
+			".entry-content p, .entry-summary p, .comment-content p, .mu_register p",
+			"body p",
+			"font-family",
+			"site-content",
+			"content",
+			"hr",
+			"../res",
+			"\"./res",
+			"./res/",
+			"./res",
+			"image",
+			"a-001",
+			"{\n",
+			"text-align: center;\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"large",
+			"a-photo",
+			"b-photo",
+			"/res",
+			"\"../res",
+			"../res/",
+			"../res"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 7,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "script/README.md",
+					"settings":
+					{
+						"buffer_size": 1587,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								975,
+								975
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 54.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "script/yago2_map2int.cpp",
+					"settings":
+					{
+						"buffer_size": 4378,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3908,
+								3908
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1728.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "yago/gb_emap",
+					"settings":
+					{
+						"buffer_size": 561,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								334,
+								334
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/home/yecol/repo/quantified-match/dataset/test/q-yago1.v",
+					"settings":
+					{
+						"buffer_size": 26,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								26,
+								26
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "script/yago2_gen_partitions.cpp",
+					"settings":
+					{
+						"buffer_size": 7513,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5036,
+								5036
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2862.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "yago/gb_vlabelmap",
+					"settings":
+					{
+						"buffer_size": 127,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								127,
+								127
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/home/yecol/repo/quantified-match/dataset/test/q-yago1.e",
+					"settings":
+					{
+						"buffer_size": 33,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								33,
+								33
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.astyle_error_message":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 192.0
+	},
+	"output.git":
+	{
+		"height": 161.0
+	},
+	"output.sftp":
+	{
+		"height": 135.0
+	},
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 258.0,
+	"status_bar_visible": true
+}
